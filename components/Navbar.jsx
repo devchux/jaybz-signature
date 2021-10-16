@@ -8,7 +8,7 @@ const Navbar = ({ scrolled }) => (
       <Link className="navbar-brand" href="/" passHref>
         <a>
           <Image
-            src="/logo.png"
+            src="https://res.cloudinary.com/dkasztqkx/image/upload/v1634343893/logo_x04t9e.png"
             width={130}
             height={50}
             quality={100}
@@ -42,11 +42,6 @@ const Navbar = ({ scrolled }) => (
           <li className="nav-item me-5 fw-bold">
             <Link className="nav-link" aria-current="page" href="/collections">
               Collections
-            </Link>
-          </li>
-          <li className="nav-item me-5 fw-bold">
-            <Link className="nav-link" aria-current="page" href="/contact">
-              Contact Us
             </Link>
           </li>
         </ul>

@@ -10,7 +10,7 @@ export default function About() {
       <div className="d-flex flex-column flex-md-row justify-content-around align-items-center body">
         <div className="image-wrapper">
           <Image
-            src="/collection%20(10).png"
+            src="https://res.cloudinary.com/dkasztqkx/image/upload/v1634343895/collection_10_e1s0t5.jpg"
             alt="ceo"
             width={300}
             height={400}

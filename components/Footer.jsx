@@ -10,7 +10,7 @@ export default function Footer() {
             <Link className="navbar-brand" href="/" passHref>
               <a>
                 <Image
-                  src="/logo2.png"
+                  src="https://res.cloudinary.com/dkasztqkx/image/upload/v1634343896/logo2_jkdspg.png"
                   width={200}
                   height={80}
                   quality={100}
